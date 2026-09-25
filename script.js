@@ -8,6 +8,8 @@ const SUPABASE_URL = "https://tqedgpapfslnhxavlivu.supabase.co";
 // Paste your Supabase PUBLISHABLE KEY here
 const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_6bWIsy2wN0L6k1ocp6eOQA_AMITaJLe";
 
+
+
 const supabaseClient = window.supabase.createClient(
     SUPABASE_URL,
     SUPABASE_PUBLISHABLE_KEY
